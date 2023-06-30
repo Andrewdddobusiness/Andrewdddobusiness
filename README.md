@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Do
 =================================================================================================================================
 
-Full Stack Developer || Blockchain Developer
+Full Stack Developer
 --------------------------------------------
 
-I’m interested in Web3, NFTs, and Crypto.
+I’m interested in Web3. AI, and building cool things!
 
 * 🌍  I'm based in Australia
 * ✉️  You can contact me at [andrewdddobusiness@gmail.com](mailto:andrewdddobusiness@gmail.com)
-* 🧠  I'm learning Blockchain Development
-* 🤝  I'm open to collaborating on Web3 Projects
-* ⚡  I create content on TikTok & YouTube about Web3 @andrewdddo
+* ⚡  I create content on YouTube @andrewdddo
 
 ### Skills
 
